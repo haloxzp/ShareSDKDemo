@@ -179,10 +179,11 @@
                    
                    if (state != SSDKResponseStateBegin)
                    {
-                       
+                       NSLog(@"123");
                    }
                    
                }];
 
+    
 }
 @end
